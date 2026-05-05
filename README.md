@@ -6,6 +6,8 @@ En este repositorio se encuentran los siguientes documentos:
 * Documento "Memoria Tecnica", formato pdf. Se compone de una descripción técnica detallada del robot a nivel mecánico y de funcionamiento (sensores, actuadores, extensiones, movimiento,...). También tiene un apartado con un buen número de imágenes del robot en sus distintas configuraciones. En el apartado siguiente se comentan los programas generados para las tres misiones, así como la estrategia seguida. Finalmente se añade el link para visualizar el video del robot en funcionamiento, que se ha subido a la nube.
 Por tanto, las imágenes que se solicitan sobre el robot se pueden consultar en dicho documento, y no se envían como archivos independientes.
 
+Link al video demostrativo: https://drive.google.com/file/d/1TKgjuLv2TyhrgxhcvqJYbx1TGi9jmpiG/view?usp=drive_link 
+
 A continuación se añade una descripción general de todo lo anterior. La información más detallada se puede encontrar en el documento "Memoria Técnica".
 
 * HARDWARE
